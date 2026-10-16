@@ -1,0 +1,13 @@
+{
+  "synthetic": true,
+  "purpose": "Illustrative settlement fields; not collected market evidence or a full Event Package",
+  "venue": "binance",
+  "symbol": "BTCUSDT",
+  "instrument_type": "linear_perpetual",
+  "settlement_time": "2026-09-08T00:00:00+00:00",
+  "ingested_at": "2026-09-08T00:00:05+00:00",
+  "rate_decimal_string": "0.001",
+  "rate_percent": "0.10%",
+  "funding_type": "regular",
+  "source_record_id": "synthetic-example-only"
+}

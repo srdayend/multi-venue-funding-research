@@ -1,0 +1,185 @@
+{
+  "source_commit": "ffb608310f180c6017b0d896d4b04c45ce352bdc",
+  "files": [
+    {
+      "path": "config/asset_mappings.toml",
+      "source_blob_sha": "6846b8818d99b8d5eac1dffa690c1fa6b11a7b90",
+      "release_sha256": "9ac84f2d310070fcbc6878dea18c952e770fa946c8af9211ecf4ae716bf9b49e"
+    },
+    {
+      "path": "src/funding_arb/__init__.py",
+      "source_blob_sha": "a3fd194b26a8572424878cf60721f60316e5425f",
+      "release_sha256": "6516583832974ff1693034de9f09aeafce8d0cc903ecee49559a57c657974a3a"
+    },
+    {
+      "path": "src/funding_arb/domain/__init__.py",
+      "source_blob_sha": "14905122ed4b3c8f6249851bb366273073470c13",
+      "release_sha256": "41bfa99f271c152e7b0f3356a13dd5dda5d5c55016d1cbee1fcfdc7eb29d6c56"
+    },
+    {
+      "path": "src/funding_arb/domain/enums.py",
+      "source_blob_sha": "13b1a9632c2cb794a96f542c8947204d0034a310",
+      "release_sha256": "614b742fb5751714946b077110fd95b037e3a98dbcd1d0541900f4ac9f906bc6"
+    },
+    {
+      "path": "src/funding_arb/domain/event_capture.py",
+      "source_blob_sha": "274d5343b44856e1031710e3efdff338e976d582",
+      "release_sha256": "565343b2dbc5358fb4d781ce4977476026d4104784d41c2223bab28888b3c462"
+    },
+    {
+      "path": "src/funding_arb/domain/event_package.py",
+      "source_blob_sha": "d2e18a8117758600299fdd87da41835b2015093e",
+      "release_sha256": "76122c4716a6462fd17035df18880a7f7debcc2791df758c2af7380cccb4815f"
+    },
+    {
+      "path": "src/funding_arb/domain/evidence_availability.py",
+      "source_blob_sha": "bebf6bbef4db1cd615ec05de8d435ec5bbe697f4",
+      "release_sha256": "b5f334f56c4bf38bbfc1a02a319752b8911fd7dfdb3e9632f342cb222566dbd3"
+    },
+    {
+      "path": "src/funding_arb/domain/funding.py",
+      "source_blob_sha": "038684db93b409b949ef1ec64b2a9405dd4fc363",
+      "release_sha256": "e6526c8905e61e0ac185d4154f837a0decd8b617b6419865e9e00cde67d59302"
+    },
+    {
+      "path": "src/funding_arb/domain/identifiers.py",
+      "source_blob_sha": "f510cae221a9ec6f714c28ab1528d501bdd82f6d",
+      "release_sha256": "cd1f73f95b9ac3f117c88ac177c4f5935ecb53bb577dbe1bbd630aed013cac6b"
+    },
+    {
+      "path": "src/funding_arb/domain/instruments.py",
+      "source_blob_sha": "999eab9235886f49dca9a6b3f144d1a611f1848a",
+      "release_sha256": "bf0d12fff7f1994e9e6f6c087d9bf0e68757ae645773a8b45da4e9c5990711df"
+    },
+    {
+      "path": "src/funding_arb/domain/observations.py",
+      "source_blob_sha": "5b854793bbf45da9524c42673ed434959016ec75",
+      "release_sha256": "15d4b0b959e143bc4739a3d79a3754391b1f61d8673dea26b1682ed08fc2eed0"
+    },
+    {
+      "path": "src/funding_arb/domain/provenance.py",
+      "source_blob_sha": "78e76af354ea3d660ad10ca66f994c20d1f6e31f",
+      "release_sha256": "0b024243b51f52e7d4f402e1d904d23619140ff3754a264cc9e8a7e6af485bdb"
+    },
+    {
+      "path": "src/funding_arb/domain/quality.py",
+      "source_blob_sha": "e30b604fc42b42b28932987d977d416618d64cfa",
+      "release_sha256": "1454cd31c5428136675c06d61c936abcb28c2e4c26828e97f319686ff20dad2a"
+    },
+    {
+      "path": "src/funding_arb/domain/spot_instruments.py",
+      "source_blob_sha": "a726710f995f7b5b647f5a8986af21024823c1dc",
+      "release_sha256": "e687286a47e0f0645ec3b3726707e6d3868816e9893bc01d8430438f1a247562"
+    },
+    {
+      "path": "src/funding_arb/domain/streaming.py",
+      "source_blob_sha": "37b4a8c781a17e9f127d9c4be593c41c31e35910",
+      "release_sha256": "38f9714f673d87ca2b0a705b965172191027298ed31ab86da791ea0301c7367e"
+    },
+    {
+      "path": "src/funding_arb/domain/time.py",
+      "source_blob_sha": "197bc19b9eeb8e2b04e7a6e94045fbb991666cda",
+      "release_sha256": "dbaa4a2c5809aeb1b975d6b7d2baf532f5248bac87e0c3c1790ab31ff5e8c973"
+    },
+    {
+      "path": "src/funding_arb/domain/universe_scan.py",
+      "source_blob_sha": "cd6ae8c425ce0c13d5414b27123ddd265e88f54a",
+      "release_sha256": "23a698ae9dc57277703561b019d75e30db94acf4474e7b776dccce548875a3df"
+    },
+    {
+      "path": "src/funding_arb/errors.py",
+      "source_blob_sha": "5af28d364fa1bcdf8a332f9cc078a6355089d9e1",
+      "release_sha256": "661037cb8e57402deeb7a89bf733102ec68349b5785e1c041655caeeda41f03b"
+    },
+    {
+      "path": "src/funding_arb/mapping/registry.py",
+      "source_blob_sha": "c3407055ce3e5f2c4a31deb425da52e2c0329dbb",
+      "release_sha256": "93d9e47ad59219e41d425f999d33cbc627002d7c854fbdeef4b61b33b8cdc923"
+    },
+    {
+      "path": "src/funding_arb/quality/__init__.py",
+      "source_blob_sha": "3845562604e25b2974254b51e2df68d66bf599d6",
+      "release_sha256": "4b1789380ef9bc713b35eb1d06a1267e127f5d104b08040000f99a18959aa064"
+    },
+    {
+      "path": "src/funding_arb/quality/quarantine.py",
+      "source_blob_sha": "22f61065e9e25fbe9cbecb731eba84013dd6f170",
+      "release_sha256": "c5ee048abfc29fd205f6643867c12e7ba7c189e9dd55d9c5ea305be133adddcc"
+    },
+    {
+      "path": "src/funding_arb/quality/reports.py",
+      "source_blob_sha": "bb3e90e3b4439c98eedefff94faa5a934e1c92a3",
+      "release_sha256": "9facfd9371b22b392dc84f65b5187141c5e50b610863cc7590ca7050e8ef6e26"
+    },
+    {
+      "path": "src/funding_arb/quality/validators.py",
+      "source_blob_sha": "319b808c7f0d1ffd32a1caae56697daa45c8f11c",
+      "release_sha256": "7ceb2c00e7fccb41e73d15ed1e8c48a36fa6ea439a6d2132df882d2856654b98"
+    },
+    {
+      "path": "tests/unit/domain/test_funding.py",
+      "source_blob_sha": "52740119f8dea4ee820552a50acb9e639bd2f2bf",
+      "release_sha256": "1d62f80a3b6e427fe396e4cac9b588681fd9a557f952b92ae70aca3f235c0d68"
+    },
+    {
+      "path": "tests/unit/domain/test_identifiers.py",
+      "source_blob_sha": "58cff4cba2fa7b6084e140559d19ec74fbcc86e8",
+      "release_sha256": "d30e8c159dbf3bd790e1cc225fc80a0efc90bf102365659481e510fb9b317d8f"
+    },
+    {
+      "path": "tests/unit/domain/test_instruments.py",
+      "source_blob_sha": "e50984bcabc74ab434d11e26581d4818816e7c36",
+      "release_sha256": "045226fafff58ef9861bc426e473f6f1bdf6e8d9df4f48714fec6d10801b0414"
+    },
+    {
+      "path": "tests/unit/domain/test_observations.py",
+      "source_blob_sha": "352521627a2538c863cce5d3fc2e7d15258d4bd7",
+      "release_sha256": "0c0574eec433918b4ed696906ac6d121314c12ff0c7fee5be2c8394f9fbeeafd"
+    },
+    {
+      "path": "tests/unit/domain/test_provenance.py",
+      "source_blob_sha": "f5f8dfadacdc6f4e6323ddac565c1c0bdca69bc1",
+      "release_sha256": "7a0daad5e560786f292c6f2d83883d6c7db38b755cd21208bf68c65dda8890f5"
+    },
+    {
+      "path": "tests/unit/domain/test_spot_instruments.py",
+      "source_blob_sha": "c40c5b9e32638ebfae39a2ef552c0f608b0f8ef6",
+      "release_sha256": "c60841a1f5758cf4904bd9cf29fcb97e039c03a9c2d63027a98b03a4759673e9"
+    },
+    {
+      "path": "tests/unit/domain/test_time.py",
+      "source_blob_sha": "876c076f4a2ee6cad74a8304772ee8023cb76c0d",
+      "release_sha256": "ca9498bb320fd0de0c5a3eadfa4e1e4fc533f678ed16309bb964c5939c524835"
+    },
+    {
+      "path": "tests/unit/mapping/test_registry.py",
+      "source_blob_sha": "f56bc6e337f97076d4dfd55f65fafc6db1c415e8",
+      "release_sha256": "1214674e4eab4e9f7bb1f384de686db16b67eab516c81d899b77ce188eea700a"
+    },
+    {
+      "path": "tests/unit/quality/test_quarantine.py",
+      "source_blob_sha": "f13abfe1c56212ecb253e2a282e3143fb34c0baa",
+      "release_sha256": "3684b0b3282186191e1e3f51491155c178b9a310a6661509dc739adf37e63b9e"
+    },
+    {
+      "path": "tests/unit/quality/test_reports.py",
+      "source_blob_sha": "f69b0c9947a57c4557884c3ce95cf1af198109c8",
+      "release_sha256": "05a0bb423ea2f3d381fdbc938775b5ace673aeff4dc4012c1c3d5a54828d7167"
+    },
+    {
+      "path": "tests/unit/quality/test_validators.py",
+      "source_blob_sha": "ed2e12bc4792a036c012504648c81d7f4b88a70b",
+      "release_sha256": "1bdb9276da23a6cf72b86fa09efdfa9e3a01a433351c678fdb7ae03544844002"
+    },
+    {
+      "path": "tests/unit/test_event_package.py",
+      "source_blob_sha": "8e00d90fcd134bd6348895f85d284716f395e7d1",
+      "release_sha256": "659534f8be344bc48c90b2cbbf0507b2de84352f9410ca8e344471b4f3a7381a"
+    },
+    {
+      "path": "tests/unit/test_universe_scan.py",
+      "source_blob_sha": "be2de0ae0a7d07b8ac0fccba8d55d5b4ea9e446f",
+      "release_sha256": "0346e7cfeb053cb7906e158569c24c373cdfb7ca55242f2d4980a61e54d6498b"
+    }
+  ]
+}

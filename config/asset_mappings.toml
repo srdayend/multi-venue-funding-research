@@ -1,0 +1,230 @@
+automatic_asset_ids = [
+    "btc",
+    "ace",
+    "ark",
+    "astr",
+    "axl",
+    "bank",
+    "cap",
+    "cvc",
+    "esports",
+    "glm",
+    "hemi",
+    "hive",
+    "iost",
+    "la",
+    "lsk",
+    "mtl",
+    "ong",
+    "pha",
+    "polyx",
+    "power",
+    "powr",
+    "pundix",
+    "rez",
+    "rvn",
+    "soph",
+    "steem",
+    "storj",
+    "t",
+    "tree",
+    "vtho",
+    "waxp",
+    "zil",
+]
+
+[[mapping]]
+venue = "binance"
+venue_symbol = "1000PEPEUSDT"
+venue_base_asset = "1000pepe"
+asset_id = "pepe"
+status = "verified"
+method = "manual_override"
+canonical_units_per_base_unit = "1000"
+reason = "Contract represents 1000 units of the PEPE underlying."
+reviewed_at = 2026-09-09T00:00:00Z
+
+[[mapping]]
+venue = "bybit"
+venue_symbol = "1000PEPEUSDT"
+venue_base_asset = "1000pepe"
+asset_id = "pepe"
+status = "verified"
+method = "manual_override"
+canonical_units_per_base_unit = "1000"
+reason = "Contract represents 1000 units of the PEPE underlying."
+reviewed_at = 2026-09-09T00:00:00Z
+
+[[mapping]]
+venue = "binance"
+venue_symbol = "AMBIGUSDT"
+venue_base_asset = "ambig"
+status = "rejected"
+method = "manual_override"
+reason = "Ticker identity is ambiguous and is not approved for canonical use."
+reviewed_at = 2026-09-09T00:00:00Z
+
+[[mapping]]
+venue = "bybit"
+venue_symbol = "1000BTTUSDT"
+venue_base_asset = "1000btt"
+asset_id = "btt"
+status = "verified"
+method = "manual_override"
+canonical_units_per_base_unit = "1000"
+reason = "Controller review verified this exact Bybit instrument as 1000 canonical BTT units per venue base unit."
+reviewed_at = 2026-09-16T00:00:00Z
+
+[[mapping]]
+venue = "bybit"
+venue_symbol = "B3USDT"
+venue_base_asset = "b3"
+asset_id = "b3"
+status = "verified"
+method = "manual_override"
+canonical_units_per_base_unit = "1"
+reason = "Controller review verified this exact Bybit instrument as a 1:1 canonical asset mapping."
+reviewed_at = 2026-09-16T00:00:00Z
+
+[[mapping]]
+venue = "bybit"
+venue_symbol = "PEAQUSDT"
+venue_base_asset = "peaq"
+asset_id = "peaq"
+status = "verified"
+method = "manual_override"
+canonical_units_per_base_unit = "1"
+reason = "Controller review verified this exact Bybit instrument as a 1:1 canonical asset mapping."
+reviewed_at = 2026-09-16T00:00:00Z
+
+[[mapping]]
+venue = "bybit"
+venue_symbol = "PLAYSOUTUSDT"
+venue_base_asset = "playsout"
+asset_id = "playsout"
+status = "verified"
+method = "manual_override"
+canonical_units_per_base_unit = "1"
+reason = "Controller review verified this exact Bybit instrument as a 1:1 canonical asset mapping."
+reviewed_at = 2026-09-16T00:00:00Z
+
+[[mapping]]
+venue = "bybit"
+venue_symbol = "PUFFERUSDT"
+venue_base_asset = "puffer"
+asset_id = "puffer"
+status = "verified"
+method = "manual_override"
+canonical_units_per_base_unit = "1"
+reason = "Controller review verified this exact Bybit instrument as a 1:1 canonical asset mapping."
+reviewed_at = 2026-09-16T00:00:00Z
+
+[[mapping]]
+venue = "bybit"
+venue_symbol = "XCNUSDT"
+venue_base_asset = "xcn"
+asset_id = "xcn"
+status = "verified"
+method = "manual_override"
+canonical_units_per_base_unit = "1"
+reason = "Controller review verified this exact Bybit instrument as a 1:1 canonical asset mapping."
+reviewed_at = 2026-09-16T00:00:00Z
+
+[[mapping]]
+venue = "okx"
+venue_symbol = "CAP-USDT-SWAP"
+venue_base_asset = "cap"
+asset_id = "cap"
+status = "verified"
+method = "manual_override"
+canonical_units_per_base_unit = "1"
+reason = "Controller review verified this exact OKX instrument as 1:1; contract sizing remains in underlying_units_per_contract."
+reviewed_at = 2026-09-16T00:00:00Z
+
+[[mapping]]
+venue = "okx"
+venue_symbol = "CNPY-USDT-SWAP"
+venue_base_asset = "cnpy"
+asset_id = "cnpy"
+status = "verified"
+method = "manual_override"
+canonical_units_per_base_unit = "1"
+reason = "Controller review verified this exact OKX instrument as 1:1; contract sizing remains in underlying_units_per_contract."
+reviewed_at = 2026-09-16T00:00:00Z
+
+[[mapping]]
+venue = "okx"
+venue_symbol = "GLM-USDT-SWAP"
+venue_base_asset = "glm"
+asset_id = "glm"
+status = "verified"
+method = "manual_override"
+canonical_units_per_base_unit = "1"
+reason = "Controller review verified this exact OKX instrument as 1:1; contract sizing remains in underlying_units_per_contract."
+reviewed_at = 2026-09-16T00:00:00Z
+
+[[mapping]]
+venue = "okx"
+venue_symbol = "IOST-USDT-SWAP"
+venue_base_asset = "iost"
+asset_id = "iost"
+status = "verified"
+method = "manual_override"
+canonical_units_per_base_unit = "1"
+reason = "Controller review verified this exact OKX instrument as 1:1; contract sizing remains in underlying_units_per_contract."
+reviewed_at = 2026-09-16T00:00:00Z
+
+[[mapping]]
+venue = "okx"
+venue_symbol = "LA-USDT-SWAP"
+venue_base_asset = "la"
+asset_id = "la"
+status = "verified"
+method = "manual_override"
+canonical_units_per_base_unit = "1"
+reason = "Controller review verified this exact OKX instrument as 1:1; contract sizing remains in underlying_units_per_contract."
+reviewed_at = 2026-09-16T00:00:00Z
+
+[[mapping]]
+venue = "okx"
+venue_symbol = "ONE-USDT-SWAP"
+venue_base_asset = "one"
+asset_id = "one"
+status = "verified"
+method = "manual_override"
+canonical_units_per_base_unit = "1"
+reason = "Controller review verified this exact OKX instrument as 1:1; contract sizing remains in underlying_units_per_contract."
+reviewed_at = 2026-09-16T00:00:00Z
+
+[[mapping]]
+venue = "okx"
+venue_symbol = "RVN-USDT-SWAP"
+venue_base_asset = "rvn"
+asset_id = "rvn"
+status = "verified"
+method = "manual_override"
+canonical_units_per_base_unit = "1"
+reason = "Controller review verified this exact OKX instrument as 1:1; contract sizing remains in underlying_units_per_contract."
+reviewed_at = 2026-09-16T00:00:00Z
+
+[[mapping]]
+venue = "okx"
+venue_symbol = "SOPH-USDT-SWAP"
+venue_base_asset = "soph"
+asset_id = "soph"
+status = "verified"
+method = "manual_override"
+canonical_units_per_base_unit = "1"
+reason = "Controller review verified this exact OKX instrument as 1:1; contract sizing remains in underlying_units_per_contract."
+reviewed_at = 2026-09-16T00:00:00Z
+
+[[mapping]]
+venue = "okx"
+venue_symbol = "ZIL-USDT-SWAP"
+venue_base_asset = "zil"
+asset_id = "zil"
+status = "verified"
+method = "manual_override"
+canonical_units_per_base_unit = "1"
+reason = "Controller review verified this exact OKX instrument as 1:1; contract sizing remains in underlying_units_per_contract."
+reviewed_at = 2026-09-16T00:00:00Z
